@@ -11,7 +11,7 @@ This is a Python program that encrypts and decrypts files using a symmetric encr
 
 ## Prerequisites
 
-- Python 3.6 or above
+- Python latest
 - `cryptography` library: You can install it by running `pip install cryptography`.
 
 ## Usage
