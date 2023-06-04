@@ -21,10 +21,14 @@ This is a Python program that encrypts and decrypts files using a symmetric encr
 2. Open a terminal or command prompt and navigate to the directory containing the `encryption-decryption.py` file.
 
 3. Run the following command to install the required `cryptography` library (if not already installed):
-    pip install cryptography
+    Run `pip install cryptography` in the Terminal
 
 4. Run the program using the following command:
-    python encryption-decryption.py
+ 
+        python encryption-decryption.py
+    or 
+
+        python3 encryption-decryption.py 
 
 
 5. The program will prompt you to choose an option:
